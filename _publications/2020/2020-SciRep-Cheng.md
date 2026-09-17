@@ -5,7 +5,7 @@ selected:       false
 pub:            "Scientific Reports"
 pub_date:       "2020"
 abstract:       ""
-# cover:          /assets/images/covers/2020-SciRep-Cheng.jpg
+cover:          /assets/images/covers/2020-SciRep-Cheng.jpg
 authors:
 - "Qilong Cheng†"
 - "Sukumar Rajauria†*"
