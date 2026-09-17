@@ -12,5 +12,5 @@ authors:
 - "Wenhui Xu†"
 - "Zhenyuan Niu"
 - "Tian Li*"
-links: {}
+links: {https://doi.org/10.1002/adom.202402827}
 ---
