@@ -1,6 +1,6 @@
 ---
 title:          "Simulation of material plastic flow driven by non-uniform friction force during friction stir welding and related defect prediction"
-date:           2016-01-01
+date:           2016-10-15
 selected:       false
 pub:            "Materials & Design"
 pub_date:       "2016"
@@ -12,5 +12,6 @@ authors:
 - "Qilong Cheng"
 - "Gong Zhang"
 - "Qingyu Shi*"
-links: {https://doi.org/10.1016/j.matdes.2016.06.119}
+links:
+  Paper: https://doi.org/10.1016/j.matdes.2016.06.119
 ---
