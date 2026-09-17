@@ -2,6 +2,7 @@
 title:          "Fluorescent-enhanced radiative cooling of colored cellulose pulp for thermal management and aesthetic applications"
 date:           2025-01-01
 selected:       true
+selected_order: 5
 pub:            "Advanced Optical Materials"
 pub_date:       "2025"
 abstract:       ""
