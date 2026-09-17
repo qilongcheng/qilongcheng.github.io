@@ -1,6 +1,6 @@
 ---
 title:          "Architectural self-assembled fungal mycelium for nanofluidic ion regulation"
-date:           2026-01-01
+date:           2026-04-23
 selected:       false
 pub:            "ACS Nano"
 pub_date:       "2026"
