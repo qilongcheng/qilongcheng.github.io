@@ -1,6 +1,6 @@
 ---
 title:          "A numerical investigation of non-ideal gas effects on the saturation pressure of water under high pressure and temperature"
-date:           2025-01-01
+date:           2025-04-27
 selected:       false
 pub:            "Lubricants"
 pub_date:       "2025"
@@ -11,5 +11,6 @@ authors:
 - "Sukumar Rajauria"
 - "Qing Dai"
 - "Qilong Cheng"
-links: {https://doi.org/10.3390/lubricants13050197}
+links:
+  Paper: https://doi.org/10.3390/lubricants13050197
 ---
