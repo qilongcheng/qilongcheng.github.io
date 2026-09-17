@@ -49,9 +49,11 @@
                 <hr />
                 <div class="row">
                     <div class="col">
-                        <a class="pr-3" href="mailto:{{ site.data.profile.email | encode_email }}">
-                            <i class="fas fa-at"></i> <span class="email-text">{{ site.data.profile.email | replace: "@", "(at)" }}</span>
+                        {% for email in site.data.profile.email %}
+                        <a class="pr-3 no-break" href="mailto:{{ email | encode_email }}">
+                            <i class="fas fa-at"></i> <span class="email-text">{{ email }}</span>
                         </a>
+                        {% endfor %}
 
                         {% if site.data.profile.gscholar %}
                         {%- if site.data.profile.gscholar contains 'scholar.google' -%}
