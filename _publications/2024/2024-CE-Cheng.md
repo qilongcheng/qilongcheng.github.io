@@ -2,6 +2,7 @@
 title:          "In-situ sub-angstrom characterization of laser-lubricant interaction in a thermo-tribological system"
 date:           2024-01-01
 selected:       true
+selected_order: 6
 pub:            "Communications Engineering"
 pub_date:       "2024"
 abstract:       ""
