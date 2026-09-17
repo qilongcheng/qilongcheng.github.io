@@ -1,6 +1,6 @@
 ---
 title:          "Experimental study of smear formation and removal in heat-assisted magnetic recording"
-date:           2021-01-01
+date:           2021-09-06
 selected:       true
 selected_order: 7
 pub:            "Tribology International"
@@ -10,5 +10,6 @@ abstract:       ""
 authors:
 - "Qilong Cheng*"
 - "David Bogy"
-links: {https://doi.org/10.1016/j.triboint.2021.107258}
+links:
+  Paper: https://doi.org/10.1016/j.triboint.2021.107258
 ---
