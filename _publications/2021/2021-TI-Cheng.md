@@ -6,7 +6,7 @@ selected_order: 7
 pub:            "Tribology International"
 pub_date:       "2021"
 abstract:       ""
-# cover:          /assets/images/covers/2021-TI-Cheng.jpg
+cover:          /assets/images/covers/2021-TI-Cheng.jpg
 authors:
 - "Qilong Cheng*"
 - "David Bogy"
