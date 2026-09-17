@@ -1,6 +1,6 @@
 ---
 title:          "Robust bio-textiles via mycelium-cellulose interface engineering"
-date:           2025-01-01
+date:           2025-10-21
 selected:       false
 pub:            "Advanced Functional Materials"
 pub_date:       "2025"
@@ -15,5 +15,6 @@ authors:
 - "Zhenyuan Niu"
 - "David Warsinger"
 - "Tian Li*"
-links: {https://doi.org/10.1002/adfm.202517897}
+links:
+  Paper: https://doi.org/10.1002/adfm.202517897
 ---
