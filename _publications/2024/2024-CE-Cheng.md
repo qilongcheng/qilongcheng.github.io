@@ -6,7 +6,7 @@ selected_order: 6
 pub:            "Communications Engineering"
 pub_date:       "2024"
 abstract:       ""
-# cover:          /assets/images/covers/2024-CE-Cheng.jpg
+cover:          /assets/images/covers/2024-CE-Cheng.jpg
 authors:
 - "Qilong Cheng*"
 - "Sukumar Rajauria*"
