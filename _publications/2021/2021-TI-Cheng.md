@@ -10,5 +10,5 @@ abstract:       ""
 authors:
 - "Qilong Cheng*"
 - "David Bogy"
-links: {}
+links: {https://doi.org/10.1016/j.triboint.2021.107258}
 ---
