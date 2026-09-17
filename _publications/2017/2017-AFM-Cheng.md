@@ -1,6 +1,6 @@
 ---
 title:          "Self-healing graphene oxide based functional architectures triggered by moisture"
-date:           2017-01-01
+date:           2017-11-01
 selected:       false
 pub:            "Advanced Functional Materials"
 pub_date:       "2017"
@@ -13,5 +13,6 @@ authors:
 - "Gaoquan Shi"
 - "Lan Jiang"
 - "Liangti Qu*"
-links: {https://doi.org/10.1002/adfm.201703096}
+links:
+  Paper: https://doi.org/10.1002/adfm.201703096
 ---
