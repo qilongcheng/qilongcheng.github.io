@@ -5,7 +5,7 @@ selected:       false
 pub:            "Next Energy"
 pub_date:       "2023"
 abstract:       ""
-# cover:          /assets/images/covers/2023-NextEnergy-Cheng.jpg
+cover:          /assets/images/covers/2023-NextEnergy-Cheng.jpg
 authors:
 - "Qilong Cheng"
 - "Ghim Wei Ho*"
