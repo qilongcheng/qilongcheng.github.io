@@ -1,6 +1,6 @@
 ---
 title:          "A dynamic wall design with tunable angular emissivity for all-season thermal regulation"
-date:           2024-01-01
+date:           2024-05-15
 selected:       true
 selected_order: 4
 pub:            "Cell Reports Physical Science"
@@ -14,5 +14,6 @@ authors:
 - "Minjoon Park"
 - "Steven Tian"
 - "Yuan Yang*"
-links: {https://doi.org/10.1016/j.xcrp.2024.101934}
+links:
+  Paper: https://doi.org/10.1016/j.xcrp.2024.101934
 ---
