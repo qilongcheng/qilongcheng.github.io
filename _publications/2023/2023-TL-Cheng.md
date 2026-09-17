@@ -1,6 +1,6 @@
 ---
 title:          "Two strategies to mitigate thermally-induced material buildup in heat-assisted magnetic recording"
-date:           2023-01-01
+date:           2023-06-01
 selected:       false
 pub:            "Tribology Letters"
 pub_date:       "2023"
@@ -10,5 +10,6 @@ authors:
 - "Qilong Cheng*"
 - "Roshan Mathew Tom"
 - "David Bogy"
-links: {https://doi.org/10.1007/s11249-023-01723-6}
+links:
+  Paper: https://doi.org/10.1007/s11249-023-01723-6
 ---
