@@ -27,5 +27,6 @@ authors:
 - "Meifang Zhu"
 - "Qianlai Zhuang"
 - "Tian Li*"
-links: {https://doi.org/10.1021/acsnano.5c06567}
+links:
+  Paper: https://doi.org/10.1021/acsnano.5c06567
 ---
