@@ -1,6 +1,6 @@
 ---
 title:          "Energy-efficient, high-accuracy sensing in loose-fitting textile sensor matrix for LLM-enabled human-robot collaboration"
-date:           2025-01-01
+date:           2025-11-11
 selected:       false
 pub:            "Nano Energy"
 pub_date:       "2025"
@@ -13,5 +13,6 @@ authors:
 - "Yuanqiu Tan"
 - "Zhihong Chen"
 - "Tian Li*"
-links: {https://doi.org/10.1016/j.nanoen.2025.111583}
+links:
+  Paper: https://doi.org/10.1016/j.nanoen.2025.111583
 ---
