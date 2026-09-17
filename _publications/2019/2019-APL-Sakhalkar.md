@@ -1,6 +1,6 @@
 ---
 title:          "Numerical and experimental investigation of heat transfer across a nanoscale gap between a magnetic recording head and various media"
-date:           2019-01-01
+date:           2019-11-25
 selected:       false
 pub:            "Applied Physics Letters"
 pub_date:       "2019"
@@ -12,5 +12,6 @@ authors:
 - "Amin Ghafari"
 - "Yuan Ma"
 - "David Bogy"
-links: {https://doi.org/10.1063/1.5119721}
+links:
+  Paper: https://doi.org/10.1063/1.5119721
 ---
