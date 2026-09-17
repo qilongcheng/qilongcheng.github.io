@@ -16,5 +16,6 @@ authors:
 - "Pengfei Deng"
 - "David Warsinger"
 - "Tian Li*"
-links: {https://doi.org/10.1021/acsnano.5c15617}
+links:
+  Paper: https://doi.org/10.1021/acsnano.5c15617
 ---
