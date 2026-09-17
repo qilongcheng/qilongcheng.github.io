@@ -1,6 +1,6 @@
 ---
 title:          "Protocol for nanoscale thermal mapping of electronic devices using atomic force microscopy with phase change material"
-date:           2024-01-01
+date:           2024-06-21
 selected:       false
 pub:            "STAR Protocols"
 pub_date:       "2024"
@@ -15,5 +15,6 @@ authors:
 - "Jim Reiner"
 - "Qing Dai"
 - "David Bogy"
-links: {https://doi.org/10.1016/j.xpro.2024.103039}
+links:
+  Paper: https://doi.org/10.1016/j.xpro.2024.103039
 ---
