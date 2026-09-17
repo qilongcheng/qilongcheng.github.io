@@ -21,5 +21,5 @@ authors:
 - "Aaswath Raman*"
 - "Nanfang Yu*"
 - "Yuan Yang*"
-links: {}
+links: {https://doi.org/10.1016/j.ynexs.2024.100028}
 ---
