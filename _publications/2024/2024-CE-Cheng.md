@@ -1,0 +1,17 @@
+---
+title:          "In-situ sub-angstrom characterization of laser-lubricant interaction in a thermo-tribological system"
+date:           2024-01-01
+selected:       true
+pub:            "Communications Engineering"
+pub_date:       "2024"
+abstract:       ""
+# cover:          /assets/images/covers/2024-CE-Cheng.jpg
+authors:
+- "Qilong Cheng*"
+- "Sukumar Rajauria*"
+- "Erhard Schreck"
+- "Robert Smith"
+- "Qing Dai"
+- "David Bogy"
+links: {}
+---
