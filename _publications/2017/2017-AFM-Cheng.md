@@ -1,0 +1,17 @@
+---
+title:          "Self-healing graphene oxide based functional architectures triggered by moisture"
+date:           2017-01-01
+selected:       false
+pub:            "Advanced Functional Materials"
+pub_date:       "2017"
+abstract:       ""
+# cover:          /assets/images/covers/2017-AFM-Cheng.jpg
+authors:
+- "Huhu Cheng*"
+- "Yaxin Huang"
+- "Qilong Cheng"
+- "Gaoquan Shi"
+- "Lan Jiang"
+- "Liangti Qu*"
+links: {}
+---
