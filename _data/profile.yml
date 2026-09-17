@@ -20,9 +20,9 @@ short_bio_text_justify: true
 short_bio: >-
   <p>
     Hi, my name is Qilong Cheng, welcome to my homepage. 
-    I received my B.E. in Mechanical Engineering from Tsinghua University in 2017 and my Ph.D. in Mechanical Engineering from the University of California, Berkeley in 2021 under the supervision of [Prof. David B. Bogy](https://me.berkeley.edu/people/david-b-bogy/).
-    After graduation, I worked as a Postdoctoral Research Scientist at Columbia University with [Prof. Yuan Yang](https://blogs.cuit.columbia.edu/yanggroup/) from 2022 to 2024. 
-    Currently, I am a Postdoctoral Researcher in the School of Mechanical Engineering at Purdue University, working with [Prof. Tian Li](https://www.tianliresearch.com/). 
+    I received my B.E. in Mechanical Engineering from Tsinghua University in 2017 and my Ph.D. in Mechanical Engineering from the University of California, Berkeley in 2021 under the supervision of <a href="https://me.berkeley.edu/people/david-b-bogy/">Prof. David B. Bogy</a>. 
+    After graduation, I worked as a Postdoctoral Research Scientist at Columbia University with <a href="https://blogs.cuit.columbia.edu/yanggroup/">Prof. Yuan Yang</a> from 2022 to 2024. 
+    Currently, I am a Postdoctoral Researcher in the School of Mechanical Engineering at Purdue University, working with <a href="https://www.tianliresearch.com/">Prof. Tian Li</a>.
   </p>
   <p>
     My research focuses on heat and mass transport across scales, connecting fundamental transport science with advanced materials and device technologies for electronics, energy, and water applications. 
@@ -49,11 +49,11 @@ education:
 
 experience:
 - name: Western Digital
-  logo: /assets/images/badges/wd.png
+  logo: /assets/images/badges/wd.jpg
   position: Research Intern
   date: Jun. 2020 - Sep. 2020
 - name: Western Digital
-  logo: /assets/images/badges/wd.png
+  logo: /assets/images/badges/wd.jpg
   position: Research Intern
   date: May. 2018 - Aug. 2018
 - name: Massachusetts Institute of Technology
