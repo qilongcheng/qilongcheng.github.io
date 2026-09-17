@@ -22,7 +22,9 @@ linkedin: qilong-cheng-994906120
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    Hi, my name is Qilong Cheng. Welcome to my homepage. 
+    Hi, my name is Qilong Cheng. Welcome to my homepage!
+  </p>
+  <p>
     I received my B.E. in Mechanical Engineering from Tsinghua University in 2017 and my Ph.D. in Mechanical Engineering from the University of California, Berkeley in 2021 under the supervision of <a href="https://me.berkeley.edu/people/david-b-bogy/">Prof. David B. Bogy</a>. 
     After graduation, I worked as a Postdoctoral Research Scientist at Columbia University with <a href="https://blogs.cuit.columbia.edu/yanggroup/">Prof. Yuan Yang</a> from 2022 to 2024. 
     Currently, I am a Postdoctoral Researcher in the School of Mechanical Engineering at Purdue University, working with <a href="https://www.tianliresearch.com/">Prof. Tian Li</a>.
@@ -30,7 +32,7 @@ short_bio: >-
   <p>
     My research focuses on heat and mass transport across scales, connecting fundamental transport science with advanced materials and device technologies for electronics, energy, and water applications. 
     My work spans nanoscale thermal transport and metrology, adaptive and radiative materials for thermal regulation, and bio-derived micro/nanofluidic platforms. 
-    Across these areas, I integrate experiments, transport modeling, and materials/device design to understand and control heat, mass, and ion transport.
+    In these areas, I integrate experiments, transport modeling, and materials/device design to understand and control heat, mass, and ion transport.
   </p>
   <p>
     Welcome to reach out to me for research discussions and potential collaborations!
@@ -53,11 +55,11 @@ education:
 experience:
 - name: Purdue University
   logo: /assets/images/badges/Purdue-Boilermakers-Logo.jpg
-  position: Postdoctoral Researcher in Mechanical Engineering
+  position: Postdoc in Mechanical Engineering
   date: May 2024 - Present
 - name: Columbia University
   logo: /assets/images/badges/columbia.png
-  position: Postdoctoral Research Scientist in Applied Physics and Applied Mathematics
+  position: Postdoc in Applied Physics and Applied Mathematics
   date: Jan. 2022 - Apr. 2024
 # - name: Western Digital
 #   logo: /assets/images/badges/wd.jpg
