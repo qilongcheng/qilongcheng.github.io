@@ -1,6 +1,6 @@
 ---
 title:          "Regulating thermal radiation for energy and sustainability"
-date:           2023-01-01
+date:           2023-06-01
 selected:       false
 pub:            "Next Energy"
 pub_date:       "2023"
@@ -12,5 +12,6 @@ authors:
 - "Aaswath Raman*"
 - "Ronggui Yang*"
 - "Yuan Yang*"
-links: {https://doi.org/10.1016/j.nxener.2023.100019}
+links:
+  Paper: https://doi.org/10.1016/j.nxener.2023.100019
 ---
