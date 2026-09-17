@@ -1,6 +1,6 @@
 ---
 title:          "Flexible in-plane graphene oxide moisture-electric converter for touchless interactive panel"
-date:           2018-01-01
+date:           2018-03-01
 selected:       false
 pub:            "Nano Energy"
 pub_date:       "2018"
@@ -13,5 +13,6 @@ authors:
 - "Qilong Cheng"
 - "Gaoquan Shi*"
 - "Lan Jiang*"
-links: {https://doi.org/10.1016/j.nanoen.2017.12.033}
+links:
+  Paper: https://doi.org/10.1016/j.nanoen.2017.12.033
 ---
