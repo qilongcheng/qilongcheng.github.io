@@ -16,5 +16,5 @@ authors:
 - "Jyotirmoy Mandal"
 - "Huiming Yin"
 - "Yuan Yang*"
-links: {}
+links: {https://doi.org/10.1002/adfm.202506405}
 ---
