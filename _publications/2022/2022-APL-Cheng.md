@@ -2,6 +2,7 @@
 title:          "Direct measurement of disk-to-head back-heating in HAMR using a non-flying test stage"
 date:           2022-01-01
 selected:       true
+selected_order: 8
 pub:            "Applied Physics Letters"
 pub_date:       "2022"
 abstract:       ""
