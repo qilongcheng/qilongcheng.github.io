@@ -11,5 +11,5 @@ authors:
 - "Tiancheng Yu"
 - "Jingkai Yan"
 - "Ru Wang"
-links: {}
+links: {https://doi.org/10.5539/jmr.v8n6p85}
 ---
