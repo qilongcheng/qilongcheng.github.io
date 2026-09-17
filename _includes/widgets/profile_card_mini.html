@@ -36,9 +36,12 @@
 
                 <div class="row small">
                     <div class="col text-center">
-                        <a class="email-text" href="mailto:{{ site.data.profile.email | encode_email }}">
-                            {{ site.data.profile.email | replace: "@", "(at)" }}
+                        {% for email in site.data.profile.email %}
+                        <a class="email-text" href="mailto:{{ email | encode_email }}">
+                            {{ email }}
                         </a>
+                        {% unless forloop.last %}<br/>{% endunless %}
+                        {% endfor %}
                     </div>
                 </div>
 
