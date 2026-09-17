@@ -1,32 +1,38 @@
-primary_name: "Your Name"
+primary_name: "Qilong Cheng"
 secondary_name: ""
 navbar_name: "Your Name"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: Postdoctoral Researcher
+- name: Purdue University
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "qlcheng@berkeley.edu"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+gscholar: rf-htm4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+# github: your_github_id
+# twitter: your_twitter_id  # Do not include the '@' symbol
+linkedin: qilong-cheng-994906120
+# orcid: 0000-0002-1281-2204
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hi, my name is Qilong Cheng, welcome to my homepage. 
+    I received my B.E. in Mechanical Engineering from Tsinghua University in 2017 and my Ph.D. in Mechanical Engineering from the University of California, Berkeley in 2021 under the supervision of [Prof. David B. Bogy](https://me.berkeley.edu/people/david-b-bogy/).
+    After graduation, I worked as a Postdoctoral Research Scientist at Columbia University with [Prof. Yuan Yang](https://blogs.cuit.columbia.edu/yanggroup/) from 2022 to 2024. 
+    Currently, I am a Postdoctoral Researcher in the School of Mechanical Engineering at Purdue University, working with [Prof. Tian Li](https://www.tianliresearch.com/). 
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
-  </p>
-
+    My research focuses on heat and mass transport across scales, connecting fundamental transport science with advanced materials and device technologies for electronics, energy, and water applications. 
+    My work spans nanoscale thermal transport and metrology, adaptive and radiative materials for thermal regulation, and bio-derived micro/nanofluidic platforms. 
+    Across these areas, I integrate experiments, transport modeling, and materials/device design to understand and control heat, mass, and ion transport.
+ </p>
+ <p>
+    Welcome to reach out to me for research discussions and potential collaborations!
+ </p>
+ 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
