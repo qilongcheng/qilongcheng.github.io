@@ -5,7 +5,7 @@ selected:       false
 pub:            "Advanced Functional Materials"
 pub_date:       "2025"
 abstract:       ""
-# cover:          /assets/images/covers/2025-AFM-Xu.jpg
+cover:          /assets/images/covers/2025-AFM-Xu.jpg
 authors:
 - "Wenhui Xu†"
 - "Qilong Cheng†"
