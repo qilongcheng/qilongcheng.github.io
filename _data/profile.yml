@@ -1,6 +1,6 @@
 primary_name: "Qilong Cheng"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Qilong Cheng"
 
 positions:
 - name: Postdoctoral Researcher
@@ -11,7 +11,7 @@ positions:
 email: "qlcheng@berkeley.edu"
 # cv_link: link-to-your-cv-file
 gscholar: rf-htm4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-# github: your_github_id
+# github: qilongcheng
 # twitter: your_twitter_id  # Do not include the '@' symbol
 linkedin: qilong-cheng-994906120
 orcid: 0000-0002-1281-2204
@@ -28,14 +28,14 @@ short_bio: >-
     My research focuses on heat and mass transport across scales, connecting fundamental transport science with advanced materials and device technologies for electronics, energy, and water applications. 
     My work spans nanoscale thermal transport and metrology, adaptive and radiative materials for thermal regulation, and bio-derived micro/nanofluidic platforms. 
     Across these areas, I integrate experiments, transport modeling, and materials/device design to understand and control heat, mass, and ion transport.
- </p>
- <p>
+  </p>
+  <p>
     Welcome to reach out to me for research discussions and potential collaborations!
- </p>
+  </p>
  
 portrait_url: /assets/images/photos/qilong.jpg
 # portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: University of California, Berkeley
