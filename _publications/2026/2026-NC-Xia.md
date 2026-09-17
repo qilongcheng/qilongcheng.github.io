@@ -1,6 +1,6 @@
 ---
 title:          "Living co-culture fabrication for biologically crosslinked mycelium-cellulose hydrogels and films"
-date:           2026-01-01
+date:           2026-08-24
 selected:       false
 pub:            "Nature Communications"
 pub_date:       "2026"
