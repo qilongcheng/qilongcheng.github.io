@@ -22,7 +22,7 @@ linkedin: qilong-cheng-994906120
 short_bio_text_justify: true
 short_bio: >-
   <p>
-    Hi, my name is Qilong Cheng, welcome to my homepage. 
+    Hi, my name is Qilong Cheng. Welcome to my homepage. 
     I received my B.E. in Mechanical Engineering from Tsinghua University in 2017 and my Ph.D. in Mechanical Engineering from the University of California, Berkeley in 2021 under the supervision of <a href="https://me.berkeley.edu/people/david-b-bogy/">Prof. David B. Bogy</a>. 
     After graduation, I worked as a Postdoctoral Research Scientist at Columbia University with <a href="https://blogs.cuit.columbia.edu/yanggroup/">Prof. Yuan Yang</a> from 2022 to 2024. 
     Currently, I am a Postdoctoral Researcher in the School of Mechanical Engineering at Purdue University, working with <a href="https://www.tianliresearch.com/">Prof. Tian Li</a>.
@@ -53,11 +53,11 @@ education:
 experience:
 - name: Purdue University
   logo: /assets/images/badges/Purdue-Boilermakers-Logo.jpg
-  position: Postdoc in Mechanical Engineering
+  position: Postdoctoral Researcher in Mechanical Engineering
   date: May 2024 - Present
 - name: Columbia University
   logo: /assets/images/badges/columbia.png
-  position: Postdoc in Applied Physics and Applied Mathematics
+  position: Postdoctoral Research Scientist in Applied Physics and Applied Mathematics
   date: Jan. 2022 - Apr. 2024
 # - name: Western Digital
 #   logo: /assets/images/badges/wd.jpg
