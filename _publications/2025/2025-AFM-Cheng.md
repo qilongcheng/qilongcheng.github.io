@@ -2,6 +2,7 @@
 title:          "Cost-effective bilayer radiative cooling paint via a porous P(VDF-HFP) top layer"
 date:           2025-01-01
 selected:       true
+selected_order: 3
 pub:            "Advanced Functional Materials"
 pub_date:       "2025"
 abstract:       ""
