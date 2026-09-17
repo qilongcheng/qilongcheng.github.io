@@ -1,6 +1,6 @@
 ---
 title:          "In-situ sub-angstrom characterization of laser-lubricant interaction in a thermo-tribological system"
-date:           2024-01-01
+date:           2024-10-05
 selected:       true
 selected_order: 6
 pub:            "Communications Engineering"
@@ -14,5 +14,6 @@ authors:
 - "Robert Smith"
 - "Qing Dai"
 - "David Bogy"
-links: {https://doi.org/10.1038/s44172-024-00284-3}
+links:
+  Paper: https://doi.org/10.1038/s44172-024-00284-3
 ---
