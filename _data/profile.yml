@@ -47,30 +47,30 @@ education:
   position: B.E. in Mechanical Engineering
   date: Aug. 2013 - Jul. 2017
 
-experience:
-- name: Western Digital
-  logo: /assets/images/badges/wd.jpg
-  position: Research Intern
-  date: Jun. 2020 - Sep. 2020
-- name: Western Digital
-  logo: /assets/images/badges/wd.jpg
-  position: Research Intern
-  date: May. 2018 - Aug. 2018
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: Research Intern
-  date: Jul. 2016 - Sep. 2016
+# experience:
+# - name: Western Digital
+#   logo: /assets/images/badges/wd.jpg
+#   position: Research Intern
+#   date: Jun. 2020 - Sep. 2020
+# - name: Western Digital
+#   logo: /assets/images/badges/wd.jpg
+#   position: Research Intern
+#   date: May. 2018 - Aug. 2018
+# - name: Massachusetts Institute of Technology
+#   logo: /assets/images/badges/MIT_Social_circle.png
+#   position: Research Intern
+#   date: Jul. 2016 - Sep. 2016
 
 awards:
 - name: Highly Cited Paper Award, *Nexus*, for the paper “Realizing optimal radiative cooling walls in building-energy nexus via asymmetric emissivity”
   date: 2026
-- name: Top 10 Chinese American Outstanding Youth, [Los Angeles Post](https://lapost.us/?p=72506)
+- name: Top 10 Chinese American Outstanding Youth, <a href="https://lapost.us/?p=72506" target="_blank">Los Angeles Post</a>
   date: 2025
-- name: Otto and Herta Kornei Endowment Fellowship
-  date: 2021
-- name: Otto and Herta Kornei Endowment Fellowship
-  date: 2020
-- name: Outstanding Undergraduate Dissertation Award, Tsinghua University
-  date: 2017
-- name: Excellent Graduates, Tsinghua University
-  date: 2017
+# - name: Otto and Herta Kornei Endowment Fellowship
+#   date: 2021
+# - name: Otto and Herta Kornei Endowment Fellowship
+#   date: 2020
+# - name: Outstanding Undergraduate Dissertation Award, Tsinghua University
+#   date: 2017
+# - name: Excellent Graduates, Tsinghua University
+#   date: 2017
