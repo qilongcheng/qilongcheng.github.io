@@ -6,7 +6,7 @@ selected_order: 4
 pub:            "Cell Reports Physical Science"
 pub_date:       "2024"
 abstract:       ""
-# cover:          /assets/images/covers/2024-CRPS-Cheng.jpg
+cover:          /assets/images/covers/2024-CRPS-Cheng.jpg
 authors:
 - "Qilong Cheng"
 - "Chao Tang"
