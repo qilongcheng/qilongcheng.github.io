@@ -1,6 +1,6 @@
 ---
 title:          "Biomass-based nanoengineered cooling geotextile for permafrost thawing prevention"
-date:           2025-01-01
+date:           2025-11-20
 selected:       false
 pub:            "ACS Nano"
 pub_date:       "2025"
