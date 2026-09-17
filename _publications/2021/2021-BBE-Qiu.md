@@ -1,6 +1,6 @@
 ---
 title:          "A low voltage-powered soft electromechanical stimulation patch for haptics feedback in human-machine interfaces"
-date:           2021-01-01
+date:           2021-12-01
 selected:       false
 pub:            "Biosensors and Bioelectronics"
 pub_date:       "2021"
@@ -22,5 +22,6 @@ authors:
 - "Min Zhang*"
 - "Xiaohao Wang"
 - "Liwei Lin*"
-links: {https://doi.org/10.1016/j.bios.2021.113616}
+links:
+  Paper: https://doi.org/10.1016/j.bios.2021.113616
 ---
