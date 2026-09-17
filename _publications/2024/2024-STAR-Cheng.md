@@ -5,7 +5,7 @@ selected:       false
 pub:            "STAR Protocols"
 pub_date:       "2024"
 abstract:       ""
-# cover:          /assets/images/covers/2024-STAR-Cheng.jpg
+cover:          /assets/images/covers/2024-STAR-Cheng.jpg
 authors:
 - "Qilong Cheng*"
 - "Sukumar Rajauria*"
