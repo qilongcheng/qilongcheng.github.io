@@ -1,6 +1,6 @@
 ---
 title:          "Mathematical models of refugee immigration and recommendations of policies"
-date:           2016-01-01
+date:           2016-12-01
 selected:       false
 pub:            "Journal of Mathematics Research"
 pub_date:       "2016"
@@ -11,5 +11,6 @@ authors:
 - "Tiancheng Yu"
 - "Jingkai Yan"
 - "Ru Wang"
-links: {https://doi.org/10.5539/jmr.v8n6p85}
+links:
+  Paper: https://doi.org/10.5539/jmr.v8n6p85
 ---
