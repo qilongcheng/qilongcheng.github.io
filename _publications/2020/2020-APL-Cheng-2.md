@@ -1,6 +1,6 @@
 ---
 title:          "Dependence of nanoscale heat transfer across a closing gap on the substrate material and ambient humidity"
-date:           2020-01-01
+date:           2020-05-26
 selected:       false
 pub:            "Applied Physics Letters"
 pub_date:       "2020"
@@ -12,5 +12,6 @@ authors:
 - "Amin Ghafari"
 - "Yuan Ma"
 - "David Bogy"
-links: {https://doi.org/10.1063/5.0010286}
+links:
+  Paper: https://doi.org/10.1063/5.0010286
 ---
