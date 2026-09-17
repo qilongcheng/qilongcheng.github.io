@@ -1,6 +1,6 @@
 ---
 title:          "Realizing optimal radiative cooling walls in building-energy nexus via asymmetric emissivity"
-date:           2024-01-01
+date:           2024-09-17
 selected:       true
 selected_order: 2
 pub:            "Nexus"
@@ -21,5 +21,6 @@ authors:
 - "Aaswath Raman*"
 - "Nanfang Yu*"
 - "Yuan Yang*"
-links: {https://doi.org/10.1016/j.ynexs.2024.100028}
+links:
+  Paper: https://doi.org/10.1016/j.ynexs.2024.100028
 ---
