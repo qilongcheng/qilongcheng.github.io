@@ -2,6 +2,7 @@
 title:          "Self-grown mycelium in confined geometries as nanofluidic devices"
 date:           2026-05-15 00:01:00 -0400
 selected:       true
+selected_order: 1
 pub:            "Nature Communications"
 pub_date:       "2026"
 abstract: >-
