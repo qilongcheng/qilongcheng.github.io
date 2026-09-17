@@ -1,6 +1,6 @@
 ---
 title:          "Direct measurement of disk-to-head back-heating in HAMR using a non-flying test stage"
-date:           2022-01-01
+date:           2022-06-13
 selected:       true
 selected_order: 8
 pub:            "Applied Physics Letters"
@@ -11,5 +11,6 @@ authors:
 - "Qilong Cheng*"
 - "Siddhesh Sakhalkar"
 - "David Bogy"
-links: {https://doi.org/10.1063/5.0092170}
+links:
+  Paper: https://doi.org/10.1063/5.0092170
 ---
