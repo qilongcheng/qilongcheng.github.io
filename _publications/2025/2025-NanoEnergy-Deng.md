@@ -13,5 +13,5 @@ authors:
 - "Yuanqiu Tan"
 - "Zhihong Chen"
 - "Tian Li*"
-links: {}
+links: {https://doi.org/10.1016/j.nanoen.2025.111583}
 ---
