@@ -6,7 +6,7 @@ selected_order: 3
 pub:            "Advanced Functional Materials"
 pub_date:       "2025"
 abstract:       ""
-# cover:          /assets/images/covers/2025-AFM-Cheng.jpg
+cover:          /assets/images/covers/2025-AFM-Cheng.jpg
 authors:
 - "Qilong Cheng*"
 - "Chao Tang"
