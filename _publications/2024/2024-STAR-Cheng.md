@@ -15,5 +15,5 @@ authors:
 - "Jim Reiner"
 - "Qing Dai"
 - "David Bogy"
-links: {}
+links: {https://doi.org/10.1016/j.xpro.2024.103039}
 ---
