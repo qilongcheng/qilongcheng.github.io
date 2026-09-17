@@ -7,7 +7,7 @@ pub:            "Nature Communications"
 pub_date:       "2026"
 abstract: >-
   We harness fungal mycelium's self-growth and intrinsic nanoporosity to construct geometrically adaptive nanofluidic networks in confined spaces, enabling surface-governed ion transport, pH gating, and dilute cation enrichment.
-cover:          /assets/images/covers/mycelium_nanofluidics.jpg
+cover:          /assets/images/covers/2026-NC-Cheng.jpg
 authors:
 - Qilong Cheng†
 - Zhenyuan Niu†
