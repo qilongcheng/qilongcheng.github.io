@@ -5,7 +5,7 @@ selected:       false
 pub:            "Tribology Letters"
 pub_date:       "2022"
 abstract:       ""
-# cover:          /assets/images/covers/2022-TL-Cheng.jpg
+cover:          /assets/images/covers/2022-TL-Cheng.jpg
 authors:
 - "Qilong Cheng*"
 - "David Bogy"
