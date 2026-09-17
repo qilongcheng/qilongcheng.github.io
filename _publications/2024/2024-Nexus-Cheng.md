@@ -6,7 +6,7 @@ selected_order: 2
 pub:            "Nexus"
 pub_date:       "2024"
 abstract:       ""
-# cover:          /assets/images/covers/2024-Nexus-Cheng.jpg
+cover:          /assets/images/covers/2024-Nexus-Cheng.jpg
 authors:
 - "Qilong Cheng"
 - "Sebastian Gomez"
