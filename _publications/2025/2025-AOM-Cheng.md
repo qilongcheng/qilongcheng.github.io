@@ -1,6 +1,6 @@
 ---
 title:          "Fluorescent-enhanced radiative cooling of colored cellulose pulp for thermal management and aesthetic applications"
-date:           2025-01-01
+date:           2025-04-01
 selected:       true
 selected_order: 5
 pub:            "Advanced Optical Materials"
@@ -12,5 +12,6 @@ authors:
 - "Wenhui Xu†"
 - "Zhenyuan Niu"
 - "Tian Li*"
-links: {https://doi.org/10.1002/adom.202402827}
+links:
+  Paper: https://doi.org/10.1002/adom.202402827
 ---
