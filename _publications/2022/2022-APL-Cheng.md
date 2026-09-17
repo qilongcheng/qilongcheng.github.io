@@ -6,7 +6,7 @@ selected_order: 8
 pub:            "Applied Physics Letters"
 pub_date:       "2022"
 abstract:       ""
-# cover:          /assets/images/covers/2022-APL-Cheng.jpg
+cover:          /assets/images/covers/2022-APL-Cheng.jpg
 authors:
 - "Qilong Cheng*"
 - "Siddhesh Sakhalkar"
