@@ -153,20 +153,9 @@ div.lazy {
 }
 
 
-/* News */
-.news-content {
-    font-size: 14px;
-}
-
-/* Honors & Awards */
-.awards-content {
-    font-size: 14px;
-}
-
-.education-content {
-    font-size: 14px;
-}
-
+.news-content,
+.awards-content,
+.education-content,
 .experience-content {
-    font-size: 14px;
+    font-size: 10px;
 }
