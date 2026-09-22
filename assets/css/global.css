@@ -152,14 +152,15 @@ div.lazy {
     }
 }
 
+.news-content {
+    font-size: 15px;
+}
 
-.news-content,
 .awards-content,
 .education-content,
 .experience-content {
     font-size: 14px;
 }
-
 
 .institution-name {
     font-weight: 700;
