@@ -151,3 +151,14 @@ div.lazy {
         transition: none;
     }
 }
+
+
+/* News */
+.news-content {
+    font-size: 16px;
+}
+
+/* Honors & Awards */
+.awards-content {
+    font-size: 16px;
+}
