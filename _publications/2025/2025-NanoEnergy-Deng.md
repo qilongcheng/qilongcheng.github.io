@@ -7,8 +7,8 @@ pub_date:       "2025"
 abstract:       ""
 # cover:          /assets/images/covers/2025-NanoEnergy-Deng.jpg
 authors:
-- "Pengfei Deng†"
-- "Yang Meng†"
+- "Pengfei Deng"
+- "Yang Meng"
 - "Qilong Cheng"
 - "Yuanqiu Tan"
 - "Zhihong Chen"
