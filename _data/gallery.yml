@@ -1,10 +1,8 @@
-- title: "NanoArtography People's Choice Award"
+- title: "NanoArtography Competition Award"
   date: "2026-11-25"
   image: /assets/images/photos/2026-nanoartography.png
   description: >
-    Purdue Mechanical Engineering People's Choice Award
-    for my image "A Living Reef of Hyphae."
-    (<a href="https://www.nanoartography.org/2026" target="_blank" rel="noopener">Link</a>)
+    Purdue Mechanical Engineering People's Choice Award. (<a href="https://www.nanoartography.org/2026" target="_blank" rel="noopener">Link</a>)
 
 - title: "ASME InterPACK 2026"
   date: "2026-10-27"
@@ -29,12 +27,18 @@
     Invited talk on mycelium-engineered
     sustainable bio-textiles.
 
+- title: "Guest Lecture at Purdue University"
+  date: "2025-10-07"
+  location: West Lafayette, Indiana
+  image: /assets/images/photos/2025-guest-lecture.jpg
+  description: >
+    Guest lecture on radiative cooling for ME 529.
+
 - title: "Top 10 Chinese American Outstanding Youth"
   date: "2025-05-04"
   image: /assets/images/photos/2025-top10.png
   description: >
-    Recognized by Los Angeles Post.
-    (<a href="https://lapost.us/?p=72506" target="_blank" rel="noopener">Link</a>)
+    Recognized by Los Angeles Post. (<a href="https://lapost.us/?p=72506" target="_blank" rel="noopener">Link</a>)
 
 - title: "Columbia University Postdoctoral Research Symposium"
   date: "2024-05-03"
