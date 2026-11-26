@@ -2,6 +2,60 @@
   date: "2026-11-25"
   image: /assets/images/photos/2026-nanoartography.png
   description: >
-    Received the Purdue Mechanical Engineering
-    People's Choice Award for my image
-    "A Living Reef of Hyphae."
+    Purdue Mechanical Engineering People's Choice Award
+    for "A Living Reef of Hyphae."
+    (<a href="https://www.nanoartography.org/2026" target="_blank" rel="noopener">Link</a>)
+
+- title: "ASME InterPACK 2026"
+  date: "2026-10-27"
+  location: San Diego, California
+  image: /assets/images/photos/2026-InterPACK.jpg
+  description: >
+    Delivered two talks on electronics thermal management
+    and co-chaired two tracks.
+
+- title: "Nexus Highly Cited Paper Award"
+  date: "2026-07-23"
+  location: Oxford, United Kingdom
+  image: /assets/images/photos/2026-Nexus.jpg
+  description: >
+    Recognized for our work on asymmetric-emissivity
+    radiative cooling walls.
+
+- title: "ACS Spring 2026"
+  date: "2026-03-25"
+  location: Atlanta, Georgia
+  image: /assets/images/photos/2026-ACS.jpg
+  description: >
+    Invited talk on mycelium-engineered
+    sustainable bio-textiles.
+
+- title: "Top 10 Chinese American Outstanding Youth"
+  date: "2025-05-04"
+  image: /assets/images/photos/2025-top10.png
+  description: >
+    Recognized by Los Angeles Post.
+    (<a href="https://lapost.us/?p=72506" target="_blank" rel="noopener">Link</a>)
+
+- title: "Columbia University Postdoctoral Research Symposium"
+  date: "2024-05-03"
+  location: New York, New York
+  image: /assets/images/photos/2024-poster.jpg
+  description: >
+    Top Poster Winner.
+
+- title: "2023 MRS Fall Meeting & Exhibit"
+  date: "2023-11-30"
+  location: Boston, Massachusetts
+  image: "/assets/images/photos/2023-MRS fall.jpg"
+  description: >
+    Oral presentation on radiative cooling walls
+    for energy-efficient buildings.
+
+- title: "2023 MRS Spring Meeting & Exhibit"
+  date: "2023-04-11"
+  location: San Francisco, California
+  image: "/assets/images/photos/2023-MRS spring.jpg"
+  description: >
+    Oral presentation on radiative cooling walls
+    with asymmetric emissivity.
